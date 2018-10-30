@@ -1,4 +1,4 @@
----
+
 # android
 记录一些android开发注意点
 
@@ -13,6 +13,7 @@ https://blog.csdn.net/p106786860/article/details/55060794
 ### crash系统
 * 腾讯bugly：https://bugly.qq.com/v2/
 ---
+
 # 编译
 https://docs.gradle.org/current/userguide/userguide.html
 
