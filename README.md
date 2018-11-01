@@ -29,3 +29,5 @@ https://docs.gradle.org/current/userguide/userguide.html
 
 * flutter
 https://flutter.io/get-started/install/
+
+查app的日活：https://www.zhihu.com/question/39138785/answer/361326803
